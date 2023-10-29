@@ -2,9 +2,9 @@
 
 Welcome to React Tic-Tac-Toe – the classic game with a modern twist!
 
-<p align="center">
+
   ![tictac](https://github.com/charith-codex/tic-tac-toe-game/assets/131009269/15243095-334c-4788-933e-f3b897341a22)
-</p>
+
 
 ## About
 
