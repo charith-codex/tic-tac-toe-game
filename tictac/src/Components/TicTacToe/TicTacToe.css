@@ -11,6 +11,7 @@
 }
 .title span{
     color: #26ffcb;
+    padding-left: 15px;
 }
 .reset{
     width: 250px;
@@ -39,4 +40,11 @@
     width: 564px;
     display: flex;
     margin: auto;
+}
+.boxes img{
+    margin: 50px 50px;
+}
+.title img{
+    padding: 20px 20px;
+    height: 50px;
 }
